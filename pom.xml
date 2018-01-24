@@ -10,5 +10,6 @@
     <modules>
         <module>catsDomain</module>
         <module>catsApplication</module>
+        <module>catsWebapp</module>
     </modules>
 </project>
