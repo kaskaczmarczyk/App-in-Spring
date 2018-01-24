@@ -1,4 +1,4 @@
-package AplikacjaSpring;
+package AplikacjaSpring.catsDomain.src.java.java;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

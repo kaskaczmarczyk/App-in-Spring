@@ -1,4 +1,7 @@
-package AplikacjaSpring;
+package AplikacjaSpring.catsApplication.src.java;
+
+import AplikacjaSpring.catsApplication.src.java.java.CatDAO;
+import AplikacjaSpring.catsDomain.src.java.java.Cat;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

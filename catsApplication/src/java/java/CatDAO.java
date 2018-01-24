@@ -1,4 +1,6 @@
-package AplikacjaSpring;
+package AplikacjaSpring.catsApplication.src.java.java;
+
+import AplikacjaSpring.catsDomain.src.java.java.Cat;
 
 import java.util.ArrayList;
 import java.util.List;
