@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cats.iml" filepath="$PROJECT_DIR$/cats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catsApplication/cats-application.iml" filepath="$PROJECT_DIR$/catsApplication/cats-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catsDomain/cats-domain.iml" filepath="$PROJECT_DIR$/catsDomain/cats-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catsWebapp/cats-webapp.iml" filepath="$PROJECT_DIR$/catsWebapp/cats-webapp.iml" />
+    </modules>
+  </component>
+</project>

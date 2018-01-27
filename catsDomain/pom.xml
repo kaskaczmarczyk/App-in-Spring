@@ -7,4 +7,11 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <artifactId>cats-domain</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>5.0.3.RELEASE</version>
+        </dependency>
+    </dependencies>
 </project>
